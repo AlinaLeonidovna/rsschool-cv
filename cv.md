@@ -9,3 +9,7 @@
 **E-mail:** anisimova.alina.leonidovna@gmail.com  
 **Discord:** Alina(@AlinaLeonidovna)  
 **GitHub:** [AlinaLeonidovna](https://github.com/AlinaLeonidovna/)
+
+## About Me
+
+I want to learn Front-End Development in RSSchool!
