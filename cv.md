@@ -27,3 +27,14 @@ I want to learn Front-End Development in RSSchool!
   - Git / GitHub
   - VS Code
   - Figma
+
+## Code example
+
+**Convert a Number to a String KATA from CODEWARS:**  
+_We need a function that can transform a number into a string._
+
+```javascript
+function numberToString(num) {
+  return String(num);
+}
+```
