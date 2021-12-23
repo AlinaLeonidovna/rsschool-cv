@@ -13,3 +13,17 @@
 ## About Me
 
 I want to learn Front-End Development in RSSchool!
+
+## Skills
+
+- HTML5
+- CSS3
+  - SASS / SCSS
+  - BEM
+  - Adaptive Development
+  - Cross-Browser Development
+- JavaScript Basics
+- Tools
+  - Git / GitHub
+  - VS Code
+  - Figma
