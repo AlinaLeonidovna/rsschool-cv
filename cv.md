@@ -67,3 +67,15 @@ _Landing page for a company for the production and installation of printed circu
 - JavaScript
 
 [Репозиторий проекта на GitHub](https://github.com/AlinaLeonidovna/smart-device/)
+
+## Education
+
+**Ukhta State Technical University**  
+Faculty: Architecture and Civil Engineering  
+Specialization: Heat and gas supply and ventilation, Specialist degree
+
+## Courses
+
+- HTML Academy [Profession «Front-end developer»](https://htmlacademy.ru/profile/id1447027/) (completed)
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
