@@ -38,3 +38,32 @@ function numberToString(num) {
   return String(num);
 }
 ```
+
+## Experience
+
+### Projects:
+
+**«Cat Energy»**  
+_Online store of fitness food for cats._
+
+- Adaptive grid (Flexbox, Grid)
+- Adaptive graphics (webp, svg)
+- Methodology: BEM
+- Preprocessor: Less
+- Automation: Gulp
+- Cross-Browser: Chrome, Firefox, Safari
+
+[Репозиторий проекта на GitHub](https://github.com/AlinaLeonidovna/1447027-cat-energy-20/)
+
+**«Smart Device»**  
+_Landing page for a company for the production and installation of printed circuit boards._
+
+- Adaptive grid (Flexbox, Grid)
+- Adaptive graphics (webp, svg)
+- Methodology: BEM
+- Preprocessor: SASS / SCSS
+- Automation: Gulp
+- Cross-Browser: Chrome, Firefox, Safari
+- JavaScript
+
+[Репозиторий проекта на GitHub](https://github.com/AlinaLeonidovna/smart-device/)
