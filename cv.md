@@ -78,7 +78,7 @@ Specialization: Heat and gas supply and ventilation, Specialist degree
 
 - HTML Academy [Profession «Front-end developer»](https://htmlacademy.ru/profile/id1447027/) (completed)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
 
 ## Languages
 
