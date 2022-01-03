@@ -53,7 +53,7 @@ _Online store of fitness food for cats._
 - Automation: Gulp
 - Cross-Browser: Chrome, Firefox, Safari
 
-[Репозиторий проекта на GitHub](https://github.com/AlinaLeonidovna/1447027-cat-energy-20/)
+[Project repository on GitHub](https://github.com/AlinaLeonidovna/1447027-cat-energy-20/)
 
 **«Smart Device»**  
 _Landing page for a company for the production and installation of printed circuit boards._
@@ -66,7 +66,7 @@ _Landing page for a company for the production and installation of printed circu
 - Cross-Browser: Chrome, Firefox, Safari
 - JavaScript
 
-[Репозиторий проекта на GitHub](https://github.com/AlinaLeonidovna/smart-device/)
+[Project repository on GitHub](https://github.com/AlinaLeonidovna/smart-device/)
 
 ## Education
 
@@ -78,7 +78,7 @@ Specialization: Heat and gas supply and ventilation, Specialist degree
 
 - HTML Academy [Profession «Front-end developer»](https://htmlacademy.ru/profile/id1447027/) (completed)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
 
 ## Languages
 
