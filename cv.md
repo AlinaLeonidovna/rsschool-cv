@@ -1,7 +1,7 @@
 # Alina Anisimova
 ### Junior Frontend Developer
 
-![Alina Anisimova](assets/my-photo.jpg)
+![Alina Anisimova](assets/img/my-photo.jpg)
 
 ## Contact information
 
